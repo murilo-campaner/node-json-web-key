@@ -18,7 +18,8 @@
     "test": "mocha --ui tdd"
   },
   "dependencies": {
-    "asn1.js": "^5.0.1"
+    "asn1.js": "^5.0.1",
+    "buffer": "^5.7.0"
   },
   "devDependencies": {
     "mocha": "^5.2.0"
